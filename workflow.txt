@@ -1,0 +1,15 @@
+General flow
+
+git status (run every other command)
+
+** made changes to a file
+git add .
+git commit -m "message"
+git push
+
+** make a new branch
+git checkout -b branchName
+
+git branch
+git status
+
